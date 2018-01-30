@@ -1,7 +1,4 @@
 module.exports = {
-    deletePart: function (serialnumber, cb) {
-        return true;
-    },
 
     updateTile: function (boardId, fieldId, json, cb) {
         console.log(boardId, fieldId, json);
