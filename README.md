@@ -8,4 +8,4 @@ This is the festival bingo backend service.
 npm i && npm start
 ```
 
-![BINGO](https://giphy.com/gifs/bingo-prGwyBLmDzeJa) 
+![BINGO](https://media.giphy.com/media/prGwyBLmDzeJa/giphy.gif) 
